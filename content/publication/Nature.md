@@ -19,7 +19,7 @@ authors = ["Dainese M", "Marini L"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Nature Climate Change*. You may use *Markdown* for italics etc."
+publication = "*Nature Climate Change*"
 publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.

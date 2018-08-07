@@ -25,11 +25,6 @@ weight = 5
   course = "Degree in Forest and Environmental Sciences"
   institution = "University of Padova"
   year = 2005
-
-[[education.courses]]
-  course = ""
-  institution = ""
-  year = 
  
 +++
 

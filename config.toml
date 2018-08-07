@@ -65,7 +65,7 @@ enableGitInfo = false
   organizations = [ { name = "EURAC Research", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "MyPicture_DAINESE.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "Matteo.Dainese@eurac.edu"
   address = "Viale Druso 1, 39100 Bolzano, Italy"
   office_hours = ""

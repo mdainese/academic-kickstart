@@ -1,11 +1,11 @@
 +++
-title = "A publication title, such as title of a paper"
+title = "Human disturbance and upward expansion of plants in a warming climate"
 
 # Date first published.
 date = "2013-07-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["First author's name", "Second author's name"]
+authors = ["Dainese M", "Marini L"]
 
 # Publication type.
 # Legend:
@@ -16,10 +16,10 @@ authors = ["First author's name", "Second author's name"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Academic*. You may use *Markdown* for italics etc."
+publication = "In *Nature Climate Change*. You may use *Markdown* for italics etc."
 publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.

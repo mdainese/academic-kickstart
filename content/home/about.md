@@ -26,10 +26,7 @@ weight = 5
   course = "Degree in Forest and Environmental Sciences"
   institution = "University of Padova"
   year = 2005
-# Featured image
-[header]
-image = "FullSizeRender.jpg"
-caption = "" 
+
 +++
 
 # 

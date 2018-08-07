@@ -10,9 +10,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Biodiversity",
+    "Ecosystem functioning",
+    "Ecosystem services",
+    "Global change"
   ]
 
 # List your qualifications (such as academic degrees).

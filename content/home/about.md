@@ -1,5 +1,4 @@
 +++
-{{< youtube w7Ft2ymGmfc >}}
 # About/Biography widget.
 widget = "about"
 active = true

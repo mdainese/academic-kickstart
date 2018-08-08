@@ -5,7 +5,7 @@ title = "Traditional plant functional groups explain variation in economic but n
 date = "2018-05-29"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Thomas HD", "Myers-Smith IH"]
+authors = ["Thomas HD", "Myers-Smith IH", "et al."]
 
 # Publication type.
 # Legend:

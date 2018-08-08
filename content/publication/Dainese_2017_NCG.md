@@ -27,10 +27,10 @@ abstract = "Climate change is expected to trigger an upward expansion of plants 
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = "FullSizeRender.jpg"
+image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

@@ -2,7 +2,7 @@
 title = "Managing trap-nesting bees as crop pollinators: spatiotemporal effects of floral resources and antagonists"
 
 # Date first published.
-date = "2018-08-01"
+date = "2018-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Dainese M", "Riedinger V", "Holzschuh A", "Kleijn D", "Scheper J", "Steffan-Dewenter I"]

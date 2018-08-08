@@ -39,7 +39,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "drive.google.com/file/d/0B1cR3ALnf_PMSHctMFhwQmE1NXc/view"
+url_pdf = "https://drive.google.com/file/d/0B1cR3ALnf_PMSHctMFhwQmE1NXc/view?usp=sharing"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -47,7 +47,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "nature.com/articles/nclimate3337"
+url_source = "https://www.nature.com/articles/nclimate3337"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

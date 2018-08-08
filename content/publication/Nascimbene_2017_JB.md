@@ -2,7 +2,7 @@
 title = "Assembly patterns of soil-dwelling lichens after glacier retreat in the European Alps"
 
 # Date first published.
-date = "2018-08-01"
+date = "2017-06-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Nascimbene J", "Mayrhofer H", "Dainese M", "Bilovitz PO"]

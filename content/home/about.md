@@ -12,8 +12,9 @@ weight = 5
   interests = [
     "Biodiversity",
     "Biological invasions",
+    "Ecosystem functioning",
     "Ecosystem services",
-    "Land-use change"
+    "Global change"
   ]
 
 # List your qualifications (such as academic degrees).

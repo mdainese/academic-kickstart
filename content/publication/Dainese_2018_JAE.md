@@ -19,7 +19,7 @@ authors = ["Dainese M", "Riedinger V", "Holzschuh A", "Kleijn D", "Scheper J", "
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Journal of Applied Ecology *"
+publication = "*Journal of Applied Ecology*"
 publication_short = "*Journal of Applied Ecology*"
 
 # Abstract and optional shortened version.

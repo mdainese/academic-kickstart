@@ -2,10 +2,10 @@
 title = "Human disturbance and upward expansion of plants in a warming climate"
 
 # Date first published.
-date = "2013-07-01"
+date = "2017-07-10"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Dainese M", "Marini L"]
+authors = ["Dainese M", "Hulme PE", "Bertolli A", "Prosser F", "Marini L"]
 
 # Publication type.
 # Legend:
@@ -39,7 +39,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "drive.google.com/file/d/0B1cR3ALnf_PMSHctMFhwQmE1NXc/view"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -47,7 +47,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "nature.com/articles/nclimate3337"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

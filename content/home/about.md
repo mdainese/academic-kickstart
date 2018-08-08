@@ -27,6 +27,9 @@ weight = 5
   institution = "University of Padova"
   year = 2005
 
+[header]
+image = "FullSizeRender.jpg"
+caption = ""
 +++
 
 # 

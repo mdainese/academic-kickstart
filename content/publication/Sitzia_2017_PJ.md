@@ -5,7 +5,7 @@ title = "Landscape metrics as functional traits in plants: perspectives from a g
 date = "2017-07-31"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Sitzia T", "Dainese M", "Krüsi BO", "McCollin D"]
+authors = ["Sitzia T", "**Dainese M**", "Krüsi BO", "McCollin D"]
 
 # Publication type.
 # Legend:

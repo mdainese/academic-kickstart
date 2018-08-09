@@ -5,7 +5,7 @@ title = "Global trait–environment relationships of plant communities"
 date = "2018-07-31"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Bruelheide H", "et al.", "including Dainese M"]
+authors = ["Bruelheide H", "et al.", "including **Dainese M**"]
 
 # Publication type.
 # Legend:

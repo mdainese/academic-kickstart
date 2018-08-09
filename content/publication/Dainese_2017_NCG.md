@@ -5,7 +5,7 @@ title = "Human disturbance and upward expansion of plants in a warming climate"
 date = "2017-08-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Dainese M", "Hulme PE", "Bertolli A", "Prosser F", "Marini L"]
+authors = ["**Dainese M**", "Hulme PE", "Bertolli A", "Prosser F", "Marini L"]
 
 # Publication type.
 # Legend:

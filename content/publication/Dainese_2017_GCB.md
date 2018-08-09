@@ -5,7 +5,7 @@ title = "Landscape simplification weakens the association between terrestrial pr
 date = "2017-08-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Dainese M", "Isaac NJB", "Powney G", "Bommarco R", "Öckinger E", "Kuussaari M", "Pöyry J", "Benton TG", "Gabriel D", "Hodgson JA", "Kunin WE", "Lindborg R", "Sait MS", "Marini L"]
+authors = ["**Dainese M**", "Isaac NJB", "Powney G", "Bommarco R", "Öckinger E", "Kuussaari M", "Pöyry J", "Benton TG", "Gabriel D", "Hodgson JA", "Kunin WE", "Lindborg R", "Sait MS", "Marini L"]
 
 # Publication type.
 # Legend:

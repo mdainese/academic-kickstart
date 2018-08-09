@@ -5,7 +5,7 @@ title = "Contrasting multi-taxa diversity patterns between abandoned and non- in
 date = "2017-10-31"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Sitzia T", "Campagnaro T", "Dainese M", "et al."]
+authors = ["Sitzia T", "Campagnaro T", "**Dainese M**", "et al."]
 
 # Publication type.
 # Legend:

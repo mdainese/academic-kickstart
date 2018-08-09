@@ -5,7 +5,7 @@ title = "High cover of hedgerows in the landscape supports multiple ecosystem se
 date = "2017-04-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Dainese M", "Montecchiari S", "Sitzia T", "Sigura M", "Marini M"]
+authors = ["**Dainese M**", "Montecchiari S", "Sitzia T", "Sigura M", "Marini M"]
 
 # Publication type.
 # Legend:

@@ -35,6 +35,8 @@ caption = ""
 
 # 
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Welcome to my homepage! 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I'm currently a Senior Researcher at the EURAC Research
+
+My research focuses on ecology and conservation of plants and insects in terrestrial ecosystems. I’m interested in understanding the main processes that create or alter biodiversity patterns in natural and managed ecosystems. 

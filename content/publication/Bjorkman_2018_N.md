@@ -1,6 +1,5 @@
-image = "RanGla_res2.jpg"
-
 +++
+
 image = "RanGla_res2.jpg"
 
 title = "Plant functional trait change across a warming tundra biome"

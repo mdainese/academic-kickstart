@@ -12,10 +12,10 @@ subtitle = "Curriculum Vitae"
 weight = 2
 
 # CV location
-cv_pdf = "./files/Tanedo.pdf"
+cv_pdf = ""
 
 # Group Logo
-group_logo = "logo/UCRHEP_03.png"
+group_logo = ""
 
 
 # List your academic interests.
@@ -34,7 +34,7 @@ group_logo = "logo/UCRHEP_03.png"
   institution = "Cornell University"
   institution_short = "Cornell"
   year = 2013
-  logo = "/logo/icon_Co.png"
+  logo = ""
 
 [[education.courses]]
   course = "MSc in Physics"
@@ -42,7 +42,7 @@ group_logo = "logo/UCRHEP_03.png"
   institution = "Durham University / IPPP"
   institution_short = "Durham/IPPP"
   year = 2008
-  logo = "/logo/icon_D.png"
+  logo = ""
 
 [[education.courses]]
   course = "MASt in Mathematics"
@@ -50,7 +50,7 @@ group_logo = "logo/UCRHEP_03.png"
   institution = "Cambridge University"
   institution_short = "Cambridge"
   year = 2007
-  logo = "/logo/icon_Ca.png"
+  logo = ""
 
 [[education.courses]]
   course = "BS in Physics & Mathematics"
@@ -58,7 +58,7 @@ group_logo = "logo/UCRHEP_03.png"
   institution = "Stanford University"
   institution_short = "Stanford"
   year = 2008
-  logo = "/logo/icon_S.png"
+  logo = ""
 
 
 # List your academic interests.

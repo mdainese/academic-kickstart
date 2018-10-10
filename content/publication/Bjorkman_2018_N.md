@@ -27,7 +27,7 @@ abstract = "The tundra is warming more rapidly than any other biome on Earth, an
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "RanGla_res2.jpg"
 
 # Is this a selected publication? (true/false)
 selected = true

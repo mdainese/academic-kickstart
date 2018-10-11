@@ -14,9 +14,6 @@ subtitle = ""
 weight = 10
 
 +++
-
-This is an example of using the *custom* widget to create your own homepage section.
-
 I am a teaching instructor for the following courses at University X:
 
 - CS101: An intro to computer science

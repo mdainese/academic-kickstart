@@ -2,7 +2,7 @@
 title = "Traditional plant functional groups explain variation in economic but not size-related traits across the tundra biome"
 
 # Date first published.
-date = "2018-05-29"
+date = "2019-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Thomas HD", "Myers-Smith IH", "et al.", "including **Dainese M**"]

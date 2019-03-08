@@ -2,7 +2,7 @@
 title = "Fine-scale population dynamics help to elucidate community assembly patterns of epiphytic lichens in alpine forests"
 
 # Date first published.
-date = "2017-07-31"
+date = "2016-12-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Nascimbene J", "Ackermann S", "**Dainese M**", "Garbarino M", "Carrer M"]

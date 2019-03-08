@@ -39,4 +39,4 @@ Welcome to my homepage!
 
 I'm currently a Senior Researcher at the EURAC Research
 
-My research focuses on ecology and conservation of plants and insects in terrestrial ecosystems. I’m interested in understanding the main processes that create or alter biodiversity patterns in natural and managed ecosystems. 
+My research focuses on ecology and conservation of plants and insects in terrestrial ecosystems. I am particularly interested in understanding the ecological consequences of environmental changes, including climate warming and land-use changes, on plant and insect biodiversity.

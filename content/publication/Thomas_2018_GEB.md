@@ -19,7 +19,7 @@ authors = ["Thomas HD", "Myers-Smith IH", "et al.", "including **Dainese M**"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Global Ecology and Biogeography*"
+publication = "*Global Ecology and Biogeography 28: 78-95*"
 publication_short = "*Global Ecology and Biogeography*"
 
 # Abstract and optional shortened version.

@@ -16,7 +16,7 @@ authors = ["**Dainese M**", "Martin EA", "...", "Steffan-Dewenter"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["6"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*bioRxiv https://doi.org/10.1101/554170*"

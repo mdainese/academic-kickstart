@@ -19,7 +19,7 @@ authors = ["Sitzia T", "Campagnaro T", "**Dainese M**", "et al."]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*iForest*"
+publication = "*iForest 10: 845-850*"
 publication_short = "*iForest*"
 
 # Abstract and optional shortened version.

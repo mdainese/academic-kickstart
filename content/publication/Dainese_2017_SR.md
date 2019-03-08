@@ -19,8 +19,8 @@ authors = ["**Dainese M**", "Schneider G", "Krauss J", "Steffan-Dewenter I"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Scientific Reports*"
-publication_short = "*Scientific Reports*"
+publication = "*Scientific Reports 7: 8172*"
+publication_short = "*Scientific Reports 7: 8172*"
 
 # Abstract and optional shortened version.
 abstract = "Natural enemies have been shown to be effective agents for controlling insect pests in crops. However, it remains unclear how different natural enemy guilds contribute to the regulation of pests and how this might be modulated by landscape context. In a field exclusion experiment in oilseed rape (OSR), we found that parasitoids and ground-dwelling predators acted in a complementary way to suppress pollen beetles, suggesting that pest control by multiple enemies attacking a pest during different periods of its occurrence in the field improves biological control efficacy. The density of pollen beetle significantly decreased with an increased proportion of non-crop habitats in the landscape. Parasitism had a strong effect on pollen beetle numbers in landscapes with a low or intermediate proportion of non-crop habitats, but not in complex landscapes. Our results underline the importance of different natural enemy guilds to pest regulation in crops, and demonstrate how biological control can be strengthened by complementarity among natural enemies. The optimization of natural pest control by adoption of specific management practices at local and landscape scales, such as establishing non-crop areas, low-impact tillage, and temporal crop rotation, could significantly reduce dependence on pesticides and foster yield stability through ecological intensification in agriculture."

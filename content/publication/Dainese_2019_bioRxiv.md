@@ -5,7 +5,7 @@ title = "A global synthesis reveals biodiversity-mediated benefits for crop prod
 date = "2019-02-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Dainese M**", "Martin EA", "Steffan-Dewenter"]
+authors = ["**Dainese M**", "Martin EA", "...", "Steffan-Dewenter"]
 
 # Publication type.
 # Legend:

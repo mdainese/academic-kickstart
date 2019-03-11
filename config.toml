@@ -267,19 +267,19 @@ enableGitInfo = false
   weight = 1
   
 [[menu.main]]
-  name = "CV"
-  url = "#CV"
-  weight = 2
-
+  name = "Projects"
+  url = "#projects"
+  weight = 4
+  
 [[menu.main]]
   name = "Publications"
   url = "#publications_selected"
   weight = 3
-
+  
 [[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
+  name = "CV"
+  url = "#CV"
+  weight = 2
 
 [[menu.main]]
   name = "Contact"

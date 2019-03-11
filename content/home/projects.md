@@ -1,10 +1,10 @@
 +++
-# Research widget.
+# Projects widget.
 widget = "projects"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Research"
+title = "Projects"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -13,7 +13,7 @@ weight = 10
 # Content.
 # Display content from the following folder.
 # For example, `folder = "project"` displays content from `content/project/`.
-folder = "research"
+folder = "project"
 
 # View.
 # Customize how projects are displayed.

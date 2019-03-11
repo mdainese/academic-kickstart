@@ -11,7 +11,7 @@ title = "CV"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 40
+weight = 10
 
 +++
 I am a teaching instructor for the following courses at University X:

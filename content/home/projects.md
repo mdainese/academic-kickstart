@@ -4,7 +4,7 @@ widget = "projects"
 active = false
 date = 2016-04-20T00:00:00
 
-title = "Projects"
+title = "Research"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -13,7 +13,7 @@ weight = 10
 # Content.
 # Display content from the following folder.
 # For example, `folder = "project"` displays content from `content/project/`.
-folder = "project"
+folder = ""
 
 # View.
 # Customize how projects are displayed.
